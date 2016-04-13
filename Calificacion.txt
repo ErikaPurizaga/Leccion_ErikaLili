@@ -1,0 +1,12 @@
+Detalle Calificacion
+Requisitos Funcionales (5 Puntos): 2.5 Puntos. La mayoria del programa esta bien. Pero no ejecuta, no puedo ponerle mas.
+Errores Manejados o no tiene en consola (2 Puntos): 1 Punto. Errores en la consola. Al menos intento validar el texto en minusculas y otros casos.
+Buen Uso de Funciones, Ciclos y DRY (2 Puntos): 2 Puntos. Intento usar funciones y el codigo cumple con DRY aunque no funciona.
+Comentarios (1 Punto): 0.75 Puntos. Si tiene algunos comentarios pero no suficientes.
+Subio bien a github (1 Punto bonus): 1 Punto. Correcto.
+Total: 7.25 Puntos
+
+Comentarios Profesor
+Tiene errores en JS, en la linea 17, no cerro un for.
+A pesar de que la mayoria del programa parece estar bien, no funciona. 
+Lamentablemente no puedo poner mas calificacion.
